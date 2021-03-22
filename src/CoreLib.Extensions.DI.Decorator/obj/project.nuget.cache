@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUy+fHL87LqQUMeY1cO+94K8Eh5qFa/K7lJ34GNVujirvoqsU6GRl3M52An3joDA+eeWcIPyKaLQq7iITnJsYg==",
+  "success": true,
+  "projectFilePath": "d:\\repos\\CoreLib.Extensions.DI.Decorator\\src\\CoreLib.Extensions.DI.Decorator\\CoreLib.Extensions.DependencyInjection.Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcvsling\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

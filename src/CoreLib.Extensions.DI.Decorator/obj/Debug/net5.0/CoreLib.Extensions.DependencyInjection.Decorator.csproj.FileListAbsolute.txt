@@ -1,0 +1,12 @@
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\bin\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.deps.json
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\bin\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.dll
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\bin\Debug\net5.0\ref\CoreLib.Extensions.DependencyInjection.Decorator.dll
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\bin\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.pdb
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.csprojAssemblyReference.cache
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.AssemblyInfoInputs.cache
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.AssemblyInfo.cs
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.csproj.CoreCompileInputs.cache
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.dll
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\ref\CoreLib.Extensions.DependencyInjection.Decorator.dll
+D:\repos\CoreLib.Extensions.DI.Decorator\src\CoreLib.Extensions.DI.Decorator\obj\Debug\net5.0\CoreLib.Extensions.DependencyInjection.Decorator.pdb
